@@ -5,7 +5,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=memo0p2&hide_rank=false&show_owner=true&show_icons=true&count_private=true) 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memo0p2&hide_rank=false&show_owner=true&show_icons=true&layout=compact&count_private=true)](https://github.com/memo0p2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="img.jpg" width="200" height="200" />
+
 
   
 
